@@ -1,0 +1,8 @@
+git init 
+git status 
+git add testing.py
+git commit -m 
+git restore testing,py
+git my love 
+git hate you
+why nano
